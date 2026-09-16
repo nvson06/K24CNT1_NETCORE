@@ -1,0 +1,121 @@
+@model NvsLesson08.Models.NvsMember
+
+@{
+    ViewData["Title"] = "Tạo mới thành viên";
+}
+
+<div class="container mt-4">
+
+    <div class="card shadow-sm border-0">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">
+                <i class="bi bi-person-plus-fill"></i>
+                @ViewData["Title"]
+            </h3>
+        </div>
+        <div class="card-body">
+
+            <form asp-action="NvsCreate" method="post">
+
+                <div asp-validation-summary="All"
+                     class="alert alert-danger"></div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NvsMemberId"
+                               class="form-label fw-semibold">
+                        </label>
+
+                        <input asp-for="NvsMemberId"
+                               class="form-control"
+                               placeholder="Nhập mã thành viên" />
+
+                        <span asp-validation-for="NvsMemberId"
+                              class="text-danger">
+                        </span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NvsUserName"
+                               class="form-label fw-semibold">
+                        </label>
+
+                        <input asp-for="NvsUserName"
+                               class="form-control"
+                               placeholder="Nhập tên tài khoản" />
+
+                        <span asp-validation-for="NvsUserName"
+                              class="text-danger">
+                        </span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NvsPassword"
+                               class="form-label fw-semibold">
+                        </label>
+
+                        <input asp-for="NvsPassword"
+                               type="password"
+                               class="form-control"
+                               placeholder="Nhập mật khẩu" />
+
+                        <span asp-validation-for="NvsPassword"
+                              class="text-danger">
+                        </span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NvsFullName"
+                               class="form-label fw-semibold">
+                        </label>
+
+                        <input asp-for="NvsFullName"
+                               class="form-control"
+                               placeholder="Nhập họ và tên" />
+
+                        <span asp-validation-for="NvsFullName"
+                              class="text-danger">
+                        </span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NvsEmail"
+                               class="form-label fw-semibold">
+                        </label>
+
+                        <input asp-for="NvsEmail"
+                               type="email"
+                               class="form-control"
+                               placeholder="example@gmail.com" />
+
+                        <span asp-validation-for="NvsEmail"
+                              class="text-danger">
+                        </span>
+                    </div>
+
+                </div>
+                <div class="border-top pt-3 mt-2">
+
+                    <button type="submit"
+                            class="btn btn-primary me-2">
+                        <i class="bi bi-save"></i>
+                        Lưu thành viên
+                    </button>
+
+                    <a asp-action="Index"
+                       class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i>
+                        Quay lại
+                    </a>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
