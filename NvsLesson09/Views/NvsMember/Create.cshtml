@@ -1,0 +1,83 @@
+﻿@model NvsLesson09.Models.DataModels.DataViewModels.NvsMemberRegister
+
+@{
+    ViewData["Title"] = "Thêm thành viên";
+}
+
+<h1>Thêm thành viên</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="NvsUserName" class="form-label">
+                    Tên đăng nhập
+                </label>
+                <input asp-for="NvsUserName" class="form-control" />
+                <span asp-validation-for="NvsUserName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="NvsPassword" class="form-label">
+                    Mật khẩu
+                </label>
+                <input asp-for="NvsPassword" type="password" class="form-control" />
+                <span asp-validation-for="NvsPassword" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="NvsEmail" class="form-label">
+                    Email
+                </label>
+                <input asp-for="NvsEmail" type="email" class="form-control" />
+                <span asp-validation-for="NvsEmail" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="NvsPhoneNumber" class="form-label">
+                    Số điện thoại
+                </label>
+                <input asp-for="NvsPhoneNumber" class="form-control" />
+                <span asp-validation-for="NvsPhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="NvsFullname" class="form-label">
+                    Họ và tên
+                </label>
+                <input asp-for="NvsFullname" class="form-control" />
+                <span asp-validation-for="NvsFullname" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="NvsBirthday" class="form-label">
+                    Ngày sinh
+                </label>
+                <input asp-for="NvsBirthday"
+                       type="date"
+                       class="form-control" />
+                <span asp-validation-for="NvsBirthday" class="text-danger"></span>
+            </div>
+
+            <div class="mt-3">
+                <button type="submit" class="btn btn-primary">
+                    Lưu
+                </button>
+
+                <a asp-action="Index" class="btn btn-secondary">
+                    Quay lại
+                </a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
