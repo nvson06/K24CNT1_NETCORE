@@ -1,0 +1,69 @@
+@model NguyenVanSon_2410900067_exam.Models.NguyenVanSonStudent
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary">Edit Student</h2>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NguyenVanSonName" class="control-label fw-bold"></label>
+                            <input asp-for="NguyenVanSonName" class="form-control" />
+                            <span asp-validation-for="NguyenVanSonName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NguyenVanSonGender" class="control-label fw-bold"></label>
+                            <input asp-for="NguyenVanSonGender" class="form-control" />
+                            <span asp-validation-for="NguyenVanSonGender" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NguyenVanSonBirthday" class="control-label fw-bold"></label>
+                            <input asp-for="NguyenVanSonBirthday" class="form-control" />
+                            <span asp-validation-for="NguyenVanSonBirthday" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NguyenVanSonEmail" class="control-label fw-bold"></label>
+                            <input asp-for="NguyenVanSonEmail" class="form-control" />
+                            <span asp-validation-for="NguyenVanSonEmail" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NguyenVanSonPhone" class="control-label fw-bold"></label>
+                            <input asp-for="NguyenVanSonPhone" class="form-control" />
+                            <span asp-validation-for="NguyenVanSonPhone" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group form-check mb-4">
+                            <label class="form-check-label fw-bold">
+                                <input class="form-check-input" asp-for="NguyenVanSonActive" /> @Html.DisplayNameFor(model => model.NguyenVanSonActive)
+                            </label>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="submit" value="Save Changes" class="btn btn-primary" />
+                            <a asp-action="Index" class="btn btn-secondary ms-2">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

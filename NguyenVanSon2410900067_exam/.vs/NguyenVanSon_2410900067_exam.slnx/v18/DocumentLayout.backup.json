@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\controllers\\nguyensinhbinhminhstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\controllers\\nguyensinhbinhminhstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\nguyensinhbinhminhstudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\models\\nguyensinhbinhminhstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\models\\nguyensinhbinhminhstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\home\\nsbmabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\home\\nsbmabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|d:\\net\\p5\\nguyensinhbinhminh_2410900067_exam\\nguyensinhbinhminh_2410900067_exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070154E7-56DA-F7D0-E6CE-84CBCE90DC28}|NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam.csproj|solutionrelative:nguyensinhbinhminh_2410900067_exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Details.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Details.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Details.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Details.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:30:33.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Edit.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Edit.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Edit.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:25:26.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Delete.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Delete.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:30:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Create.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Create.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:30:14.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Index.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Index.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\NguyenVanSonStudents\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:25:26.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguyenVanSonStudentsController.cs",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Controllers\\NguyenVanSonStudentsController.cs",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Controllers\\NguyenVanSonStudentsController.cs",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Controllers\\NguyenVanSonStudentsController.cs",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Controllers\\NguyenVanSonStudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:20:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\appsettings.json",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\appsettings.json",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T01:15:06.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:15:01.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:14:56.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguyenVanSonStudentContext.cs",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Models\\NguyenVanSonStudentContext.cs",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Models\\NguyenVanSonStudentContext.cs",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Models\\NguyenVanSonStudentContext.cs",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Models\\NguyenVanSonStudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:14:31.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Program.cs",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Program.cs",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:08:30.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NsbmAbout.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Home\\NsbmAbout.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\Home\\NsbmAbout.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Home\\NsbmAbout.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\Home\\NsbmAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T00:59:52.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T00:58:40.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NguyenVanSon_2410900067_exam\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\net\\p5\\NguyenVanSon_2410900067_exam\\NguyenVanSon_2410900067_exam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NguyenVanSon_2410900067_exam\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T00:56:56.632Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
