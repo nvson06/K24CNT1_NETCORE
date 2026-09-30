@@ -1,0 +1,133 @@
+﻿@model IEnumerable<NvsLesson12.Models.NvsBanner>
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div class="container-fluid p-0">
+
+    <!-- ==================== BANNER ==================== -->
+    @if (Model != null && Model.Any())
+    {
+        <div id="bannerCarousel"
+             class="carousel slide mb-4"
+             data-bs-ride="carousel">
+
+            <!-- Indicators -->
+            <div class="carousel-indicators">
+
+                @for (int i = 0; i < Model.Count(); i++)
+                {
+                    <button type="button"
+                            data-bs-target="#bannerCarousel"
+                            data-bs-slide-to="@i"
+                            class="@(i == 0 ? "active" : "")"
+                            aria-current="@(i == 0 ? "true" : "false")"
+                            aria-label="Banner @(i + 1)">
+                    </button>
+                }
+
+            </div>
+
+            <!-- Banner images -->
+            <div class="carousel-inner">
+
+                @{
+                    int index = 0;
+                }
+
+                @foreach (var banner in Model)
+                {
+                    <div class="carousel-item @(index == 0 ? "active" : "")">
+
+                        <img src="~/Banner/@banner.Image"
+                             class="d-block w-100"
+                             style="height: 400px; object-fit: cover;"
+                             alt="@banner.Name"
+                             onerror="this.style.display='none';">
+
+                        <div class="carousel-caption d-none d-md-block">
+                            <h3>@banner.Name</h3>
+                        </div>
+
+                    </div>
+
+                    index++;
+                }
+
+            </div>
+
+            <!-- Previous -->
+            <button class="carousel-control-prev"
+                    type="button"
+                    data-bs-target="#bannerCarousel"
+                    data-bs-slide="prev">
+
+                <span class="carousel-control-prev-icon"></span>
+
+                <span class="visually-hidden">
+                    Previous
+                </span>
+
+            </button>
+
+            <!-- Next -->
+            <button class="carousel-control-next"
+                    type="button"
+                    data-bs-target="#bannerCarousel"
+                    data-bs-slide="next">
+
+                <span class="carousel-control-next-icon"></span>
+
+                <span class="visually-hidden">
+                    Next
+                </span>
+
+            </button>
+
+        </div>
+    }
+    else
+    {
+        <!-- Nếu chưa có Banner -->
+        <div class="bg-light text-center py-5 mb-4">
+
+            <h1 class="display-5">
+                Chào mừng đến với NvsLesson12
+            </h1>
+
+            <p class="lead">
+                Website quản lý sản phẩm
+            </p>
+
+        </div>
+    }
+
+
+    <!-- ==================== SẢN PHẨM ==================== -->
+
+    <div class="container">
+
+        <div class="text-center mb-4">
+
+            <h2>
+                Sản phẩm
+            </h2>
+
+            <p class="text-muted">
+                Khám phá các sản phẩm của chúng tôi
+            </p>
+
+            <a asp-controller="NvsProducts"
+               asp-action="Index"
+               class="btn btn-primary">
+
+                Xem sản phẩm
+
+            </a>
+
+        </div>
+
+    </div>
+
+</div>

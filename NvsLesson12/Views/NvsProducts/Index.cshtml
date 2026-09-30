@@ -1,0 +1,110 @@
+@model IEnumerable<NvsLesson12.Models.NvsProduct>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h1>Danh sách sản phẩm</h1>
+
+<p>
+    <a asp-controller="NvsProducts"
+       asp-action="Create"
+       class="btn btn-success">
+        Thêm sản phẩm
+    </a>
+</p>
+
+<table class="table table-bordered table-hover">
+
+    <thead>
+        <tr>
+            <th>Tên sản phẩm</th>
+            <th>Hình ảnh</th>
+            <th>Giá</th>
+            <th>Giá khuyến mãi</th>
+            <th>Trạng thái</th>
+            <th>Mô tả</th>
+            <th>Ngày tạo</th>
+            <th>Danh mục</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Name
+                </td>
+
+                <td>
+                    @if (!string.IsNullOrEmpty(item.Image))
+                    {
+                        <img src="~/Product/@item.Image"
+                             width="80"
+                             height="80"
+                             style="object-fit:cover;"
+                             alt="@item.Name" />
+                    }
+                    else
+                    {
+                        <span>Chưa có ảnh</span>
+                    }
+                </td>
+
+                <td>
+                    @item.Price
+                </td>
+
+                <td>
+                    @item.SalePrice
+                </td>
+
+                <td>
+                    @item.Status
+                </td>
+
+                <td>
+                    @item.Description
+                </td>
+
+                <td>
+                    @item.CreatedDate.ToString("dd/MM/yyyy HH:mm")
+                </td>
+
+                <td>
+                    @item.Category?.Name
+                </td>
+
+                <td style="white-space: nowrap;">
+
+                    <a asp-controller="NvsProducts"
+                       asp-action="Edit"
+                       asp-route-id="@item.Id"
+                       class="btn btn-sm btn-primary">
+                        Sửa
+                    </a>
+
+                    <a asp-controller="NvsProducts"
+                       asp-action="Details"
+                       asp-route-id="@item.Id"
+                       class="btn btn-sm btn-success">
+                        Chi tiết
+                    </a>
+
+                    <a asp-controller="NvsProducts"
+                       asp-action="Delete"
+                       asp-route-id="@item.Id"
+                       class="btn btn-sm btn-danger">
+                        Xóa
+                    </a>
+
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

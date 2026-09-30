@@ -1,0 +1,164 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.EntryPointFilePath = 
+build_property.RootNamespace = NvsLesson12
+build_property.RootNamespace = NvsLesson12
+build_property.ProjectDir = D:\hoctap\NET\K24CNT1_NETCORE\NvsLesson12\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\hoctap\NET\K24CNT1_NETCORE\NvsLesson12
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/Home/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsBanner/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQmFubmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsBanner/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQmFubmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsBanner/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQmFubmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsBanner/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQmFubmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsBanner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQmFubmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsProducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsProducts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsProducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStdClass/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3RkQ2xhc3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStdClass/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3RkQ2xhc3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStdClass/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3RkQ2xhc3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStdClass/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3RkQ2xhc3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStdClass/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3RkQ2xhc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStudents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStudents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStudents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStudents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/NvsStudents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZzU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoctap/NET/K24CNT1_NETCORE/NvsLesson12/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tz0959jx76

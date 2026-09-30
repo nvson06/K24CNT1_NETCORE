@@ -1,0 +1,70 @@
+﻿@model NvsLesson12.Models.NvsStudent
+
+@{
+    ViewData["Title"] = "Chi tiết sinh viên";
+}
+
+<h1>Chi tiết sinh viên</h1>
+
+<dl class="row">
+
+    <dt class="col-sm-3">
+        Họ tên
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StudentName
+    </dd>
+
+    <dt class="col-sm-3">
+        Email
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StudentEmail
+    </dd>
+
+    <dt class="col-sm-3">
+        Số điện thoại
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StudentPhone
+    </dd>
+
+    <dt class="col-sm-3">
+        Địa chỉ
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StudentAddress
+    </dd>
+
+    <dt class="col-sm-3">
+        Ngày sinh
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StudentBirthday.ToString("dd/MM/yyyy")
+    </dd>
+
+    <dt class="col-sm-3">
+        Lớp
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StdClass?.ClassName
+    </dd>
+
+</dl>
+
+<a asp-action="Edit"
+   asp-route-id="@Model.Id"
+   class="btn btn-primary">
+    Sửa
+</a>
+
+<a asp-action="Index"
+   class="btn btn-secondary">
+    Quay lại
+</a>

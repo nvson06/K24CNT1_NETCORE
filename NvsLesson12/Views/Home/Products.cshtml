@@ -1,0 +1,68 @@
+﻿@model IEnumerable<NvsLesson12.Models.NvsProduct>
+
+@{
+    ViewData["Title"] = "Sản phẩm";
+}
+
+<h1 class="mb-4">Danh sách sản phẩm</h1>
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 mb-4">
+
+            <div class="card h-100 shadow-sm">
+
+                @if (!string.IsNullOrEmpty(item.Image))
+                {
+                    <img src="~/Product/@item.Image"
+                         class="card-img-top"
+                         style="height:220px; object-fit:cover;"
+                         alt="@item.Name" />
+                }
+                else
+                {
+                    <div class="text-center p-5">
+                        Chưa có ảnh
+                    </div>
+                }
+
+                <div class="card-body">
+
+                    <h5 class="card-title">
+                        @item.Name
+                    </h5>
+
+                    <p class="card-text">
+                        @item.Description
+                    </p>
+
+                    <p>
+                        <strong>
+                            Giá:
+                            @item.Price.ToString("N0") VNĐ
+                        </strong>
+                    </p>
+
+                    @if (item.SalePrice > 0)
+                    {
+                        <p class="text-danger">
+                            Khuyến mãi:
+                            @item.SalePrice.ToString("N0") VNĐ
+                        </p>
+                    }
+
+                    <p>
+                        Danh mục:
+                        @item.Category?.Name
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+    }
+
+</div>

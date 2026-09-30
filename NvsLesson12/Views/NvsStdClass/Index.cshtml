@@ -1,0 +1,44 @@
+@model IEnumerable<NvsLesson12.Models.NvsStdClass>
+
+@{
+    ViewData["Title"] = "Danh sách lớp";
+}
+
+<h1>Danh sách lớp</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm lớp mới</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Tên lớp</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.ClassName</td>
+                <td>
+                    <a asp-action="Edit"
+                       asp-route-id="@item.Id"
+                       class="btn btn-primary btn-sm">Sửa</a>
+
+                    <a asp-action="Details"
+                       asp-route-id="@item.Id"
+                       class="btn btn-success btn-sm">Chi tiết</a>
+
+                    <a asp-action="Delete"
+                       asp-route-id="@item.Id"
+                       class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

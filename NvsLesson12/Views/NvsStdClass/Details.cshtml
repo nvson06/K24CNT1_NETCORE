@@ -1,0 +1,22 @@
+@model NvsLesson12.Models.NvsStdClass
+
+@{
+    ViewData["Title"] = "Chi tiết lớp";
+}
+
+<h1>Chi tiết lớp</h1>
+
+<dl class="row">
+    <dt class="col-sm-2">ID</dt>
+    <dd class="col-sm-10">@Model.Id</dd>
+
+    <dt class="col-sm-2">Tên lớp</dt>
+    <dd class="col-sm-10">@Model.ClassName</dd>
+</dl>
+
+<a asp-action="Edit"
+   asp-route-id="@Model.Id"
+   class="btn btn-primary">Sửa</a>
+
+<a asp-action="Index"
+   class="btn btn-secondary">Quay lại</a>

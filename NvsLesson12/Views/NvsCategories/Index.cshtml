@@ -1,0 +1,76 @@
+@model IEnumerable<NvsLesson12.Models.NvsCategory>
+
+@{
+    ViewData["Title"] = "Danh sách danh mục";
+}
+
+<h2>Danh sách danh mục</h2>
+
+<p>
+    <a asp-controller="NvsCategories"
+       asp-action="Create"
+       class="btn btn-success">
+        Thêm mới danh mục
+    </a>
+</p>
+
+<table class="table table-bordered table-hover">
+
+    <thead>
+        <tr>
+            <th>Tên danh mục</th>
+            <th>Trạng thái</th>
+            <th>Ngày tạo</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @item.Name
+                </td>
+
+                <td>
+                    @item.Status
+                </td>
+
+                <td>
+                    @item.CreatedDate
+                </td>
+
+                <td>
+
+                    <a class="btn btn-sm btn-primary"
+                       asp-controller="NvsCategories"
+                       asp-action="Edit"
+                       asp-route-id="@item.Id">
+                        Sửa
+                    </a>
+
+                    <a class="btn btn-sm btn-success"
+                       asp-controller="NvsCategories"
+                       asp-action="Details"
+                       asp-route-id="@item.Id">
+                        Chi tiết
+                    </a>
+
+                    <a class="btn btn-sm btn-danger"
+                       asp-controller="NvsCategories"
+                       asp-action="Delete"
+                       asp-route-id="@item.Id">
+                        Xóa
+                    </a>
+
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

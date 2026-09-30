@@ -1,0 +1,53 @@
+﻿@model NvsLesson12.Models.NvsStudent
+
+@{
+    ViewData["Title"] = "Xóa sinh viên";
+}
+
+<h1>Xóa sinh viên</h1>
+
+<h3>Bạn có chắc muốn xóa sinh viên này?</h3>
+
+<dl class="row">
+
+    <dt class="col-sm-3">
+        Họ tên
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StudentName
+    </dd>
+
+    <dt class="col-sm-3">
+        Email
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StudentEmail
+    </dd>
+
+    <dt class="col-sm-3">
+        Lớp
+    </dt>
+
+    <dd class="col-sm-9">
+        @Model.StdClass?.ClassName
+    </dd>
+
+</dl>
+
+<form asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit"
+            class="btn btn-danger">
+        Xóa
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Hủy
+    </a>
+
+</form>
