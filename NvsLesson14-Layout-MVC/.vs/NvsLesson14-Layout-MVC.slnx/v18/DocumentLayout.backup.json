@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NvsLesson14-Layout-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\doviv\\.copilot\\plans\\plan-replace-lgh-naming-with-nvs.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\views\\shared\\_nvslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\views\\shared\\_nvslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\areas\\nvsadmins\\controllers\\nvsdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\areas\\nvsadmins\\controllers\\nvsdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\nvscategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\nvscategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\areas\\nvsadmins\\controllers\\nvscategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\areas\\nvsadmins\\controllers\\nvscategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\nvsdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\nvsdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|d:\\nvslesson14-layout-mvc\\nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\shared\\_nvsadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9F9E37-EE9D-C525-AE3D-ECC88B4C46BA}|NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC.csproj|solutionrelative:nvslesson14-layout-mvc\\areas\\nvsadmins\\views\\shared\\_nvsadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:11:25.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:13:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:12:47.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:12:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_NvsLayout.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Shared\\_NvsLayout.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Views\\Shared\\_NvsLayout.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Shared\\_NvsLayout.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Views\\Shared\\_NvsLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:07:30.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plan-replace-lgh-naming-with-nvs.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\doviv\\.copilot\\plans\\plan-replace-lgh-naming-with-nvs.md",
+              "ToolTip": "C:\\Users\\doviv\\.copilot\\plans\\plan-replace-lgh-naming-with-nvs.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-03T02:10:59.207Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-03T02:15:42.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Program.cs",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Program.cs",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:19:31.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NvsDashboardController.cs",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsDashboardController.cs",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsDashboardController.cs",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsDashboardController.cs",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:07:30.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsCategory\\Index.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsCategory\\Index.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsCategory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:13:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:12:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:07:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NvsCategoryController.cs",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsCategoryController.cs",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsCategoryController.cs",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsCategoryController.cs",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Controllers\\NvsCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:07:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsDashboard\\Index.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsDashboard\\Index.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\NvsDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:13:50.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\ViewStart.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\ViewStart.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:07:30.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_NvsAdmins.cshtml",
+              "DocumentMoniker": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\Shared\\_NvsAdmins.cshtml",
+              "RelativeDocumentMoniker": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\Shared\\_NvsAdmins.cshtml",
+              "ToolTip": "D:\\NvsLesson14-Layout-MVC\\NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\Shared\\_NvsAdmins.cshtml",
+              "RelativeToolTip": "NvsLesson14-Layout-MVC\\Areas\\NvsAdmins\\Views\\Shared\\_NvsAdmins.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:07:30.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
